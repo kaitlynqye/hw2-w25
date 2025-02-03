@@ -55,6 +55,8 @@ div {
     margin-left: 50px;
     border-bottom: 2px solid;
     border-left: 5px solid;
+    border-top: none;
+    border-right: none;
 }
 
 .blue {
@@ -63,6 +65,8 @@ div {
     margin-right: 50px;
     border-right: 5px solid;
     border-top: 2px solid;
+    border-left: none;
+    border-bottom: none;
     color: #c4c4c4;
 }
 
@@ -76,6 +80,8 @@ div {
     margin-left: 50px;
     border-bottom: 2px solid;
     border-left: 5px solid;
+    border-top: none;
+    border-right: none;
     color: #707070;
 }
 
@@ -85,6 +91,8 @@ div {
     margin-right: 50px;
     border-right: 5px solid;
     border-top: 2px solid;
+    border-left: none;
+    border-bottom: none;
 }
 
 footer {
